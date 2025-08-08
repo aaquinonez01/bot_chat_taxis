@@ -1,0 +1,1049 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989815664@s.whatsapp.net',
+    fromMe: false,
+    id: '71B5247C94A6BDC43C839956D1D8AD57',
+    participant: undefined
+  },
+  messageTimestamp: 1754535677,
+  pushName: 'Alexander',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '593989815664'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_db550218-dc2f-40bc-8fbd-54c98bb8e280',
+  keyword: 'key_d6ef6e9d-6dbb-4daf-a05d-11e26cdd42d5',
+  answer: '🚕 ¡Hola! Bienvenido',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8cc979013794bfa08811fb6f0a8f7892'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e9684748-8670-4e1b-88f3-97ad3d9340c7',
+  keyword: 'ans_db550218-dc2f-40bc-8fbd-54c98bb8e280',
+  answer: '📋 *Menú de opciones:*\n' +
+    '\n' +
+    '🚕 Escribe *taxi* para solicitar un taxi\n' +
+    '📤 Escribe *mensaje* para enviar un mensaje\n' +
+    '\n' +
+    'Escribe la palabra de la opción que deseas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5679bbc5b33efd78210d189ce1548642'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989815664@s.whatsapp.net',
+    fromMe: false,
+    id: '7094D460A70EAAC93D3BCD42F74A5B8B',
+    participant: undefined
+  },
+  messageTimestamp: 1754535679,
+  pushName: 'Alexander',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 7776000,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593989815664'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989815664@s.whatsapp.net',
+    fromMe: false,
+    id: 'E3B916FE8E927B7EE7AE0C74513A4020',
+    participant: undefined
+  },
+  messageTimestamp: 1754535683,
+  pushName: 'Alexander',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'mensaje',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'mensaje',
+  from: '593989815664'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2ffbd4cf-acb3-40da-9b3c-c65baff6c3f6',
+  keyword: 'key_33af2346-650a-4e94-b794-9e158e77386a',
+  answer: '📱 Por favor, escribe el número de teléfono:\n' +
+    '(Incluye el código de país)\n' +
+    '\n' +
+    'Ejemplo: +593987654321',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '82e4a3dad17ff99ad792495a757d24a8'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989815664@s.whatsapp.net',
+    fromMe: false,
+    id: 'E1142B83DF5459A33811D2F4971A35A7',
+    participant: undefined
+  },
+  messageTimestamp: 1754535684,
+  pushName: 'Alexander',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 7776000,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593989815664'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989815664@s.whatsapp.net',
+    fromMe: false,
+    id: 'F9972FF3BA8EB852C377D4272B48B456',
+    participant: undefined
+  },
+  messageTimestamp: 1754535717,
+  pushName: 'Alexander',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '+593982383458',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  status: 4,
+  body: '+593982383458',
+  from: '593989815664'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989815664@s.whatsapp.net',
+    fromMe: false,
+    id: '9A98794123269B1B37260260E7597E1F',
+    participant: undefined
+  },
+  messageTimestamp: 1754535718,
+  pushName: 'Alexander',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 7776000,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593989815664'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4ca4c121-6cc3-4032-8901-9c011f3e0265',
+  keyword: 'ans_2ffbd4cf-acb3-40da-9b3c-c65baff6c3f6',
+  answer: '💬 Escribe tu mensaje:\nSe enviará cuando lo escribas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '45597f286a71f97f975fdb074847be03'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989815664@s.whatsapp.net',
+    fromMe: false,
+    id: '495ECD6F2DF9198D26E4172B05F08D3F',
+    participant: undefined
+  },
+  messageTimestamp: 1754535727,
+  pushName: 'Alexander',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola, me gustas mucho',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola, me gustas mucho',
+  from: '593989815664'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989815664@s.whatsapp.net',
+    fromMe: false,
+    id: '367352E3971BDA76AF3391B9B7EE21A2',
+    participant: undefined
+  },
+  messageTimestamp: 1754535730,
+  pushName: 'Alexander',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 7776000,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593989815664'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989815664@s.whatsapp.net',
+    fromMe: false,
+    id: '2D2836FCBC2378C17451EC18C185D258',
+    participant: undefined
+  },
+  messageTimestamp: 1754535887,
+  pushName: 'Alexander',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '593989815664'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_db550218-dc2f-40bc-8fbd-54c98bb8e280',
+  keyword: 'key_d6ef6e9d-6dbb-4daf-a05d-11e26cdd42d5',
+  answer: '🚕 ¡Hola! Bienvenido',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8cc979013794bfa08811fb6f0a8f7892'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e9684748-8670-4e1b-88f3-97ad3d9340c7',
+  keyword: 'ans_db550218-dc2f-40bc-8fbd-54c98bb8e280',
+  answer: '📋 *Menú de opciones:*\n' +
+    '\n' +
+    '🚕 Escribe *taxi* para solicitar un taxi\n' +
+    '📤 Escribe *mensaje* para enviar un mensaje\n' +
+    '\n' +
+    'Escribe la palabra de la opción que deseas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5679bbc5b33efd78210d189ce1548642'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989815664@s.whatsapp.net',
+    fromMe: false,
+    id: '8F652862BC72A2FB2589356AB0A36FEB',
+    participant: undefined
+  },
+  messageTimestamp: 1754535891,
+  pushName: 'Alexander',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 7776000,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593989815664'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989815664@s.whatsapp.net',
+    fromMe: false,
+    id: '1A0425FE913152CC1BB7F0DE0EA19566',
+    participant: undefined
+  },
+  messageTimestamp: 1754535896,
+  pushName: 'Alexander',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'mensaje',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'mensaje',
+  from: '593989815664'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2ffbd4cf-acb3-40da-9b3c-c65baff6c3f6',
+  keyword: 'key_33af2346-650a-4e94-b794-9e158e77386a',
+  answer: '📱 Por favor, escribe el número de teléfono:\n' +
+    '(Incluye el código de país)\n' +
+    '\n' +
+    'Ejemplo: +593987654321',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '82e4a3dad17ff99ad792495a757d24a8'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989815664@s.whatsapp.net',
+    fromMe: false,
+    id: '6AA4C4155A168ABDA990F6A89A9949CB',
+    participant: undefined
+  },
+  messageTimestamp: 1754535896,
+  pushName: 'Alexander',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 7776000,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593989815664'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989815664@s.whatsapp.net',
+    fromMe: false,
+    id: 'D2EA7CCA7C021AAF6BDEAF8BB75E799D',
+    participant: undefined
+  },
+  messageTimestamp: 1754535905,
+  pushName: 'Alexander',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '+593984583242',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '+593984583242',
+  from: '593989815664'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4ca4c121-6cc3-4032-8901-9c011f3e0265',
+  keyword: 'ans_2ffbd4cf-acb3-40da-9b3c-c65baff6c3f6',
+  answer: '💬 Escribe tu mensaje:\nSe enviará cuando lo escribas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '45597f286a71f97f975fdb074847be03'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989815664@s.whatsapp.net',
+    fromMe: false,
+    id: '51650DA9EA9DA87190393D405B1BF0C3',
+    participant: undefined
+  },
+  messageTimestamp: 1754535906,
+  pushName: 'Alexander',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 7776000,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593989815664'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989815664@s.whatsapp.net',
+    fromMe: false,
+    id: 'A8E3AB7015A1171EA88C53F58C06BF49',
+    participant: undefined
+  },
+  messageTimestamp: 1754535922,
+  pushName: 'Alexander',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Me gustas muchooooo',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Me gustas muchooooo',
+  from: '593989815664'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989815664@s.whatsapp.net',
+    fromMe: false,
+    id: '194C739A165230F22DCBEA31A014D626',
+    participant: undefined
+  },
+  messageTimestamp: 1754535927,
+  pushName: 'Alexander',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 7776000,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593989815664'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989815664@s.whatsapp.net',
+    fromMe: false,
+    id: 'A7B1C766031521B396D4F3AFE20E6370',
+    participant: undefined
+  },
+  messageTimestamp: 1754535932,
+  pushName: 'Alexander',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'menu',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'menu',
+  from: '593989815664'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b0e41905-e83c-4e28-a5d7-f090584f23bd',
+  keyword: 'key_b0798516-f58f-46a4-89cf-b0f66264f0aa',
+  answer: '🚕 ¡Hola! Bienvenido',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b12bcc42ecb140dc58475df050f60f14'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8500e37e-ca87-47a9-9288-95b4c2eda620',
+  keyword: 'ans_b0e41905-e83c-4e28-a5d7-f090584f23bd',
+  answer: '📋 *Menú de opciones:*\n' +
+    '\n' +
+    '🚕 Escribe *taxi* para solicitar un taxi\n' +
+    '📤 Escribe *mensaje* para enviar un mensaje\n' +
+    '\n' +
+    'Escribe la palabra de la opción que deseas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'cd50c9126f053d07de975244c942c093'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989815664@s.whatsapp.net',
+    fromMe: false,
+    id: '9E66A49036E55A0781BE6631F789CF40',
+    participant: undefined
+  },
+  messageTimestamp: 1754535933,
+  pushName: 'Alexander',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 7776000,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593989815664'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989815664@s.whatsapp.net',
+    fromMe: false,
+    id: 'B50FA96DC1400D17FF602AF53ED5393E',
+    participant: undefined
+  },
+  messageTimestamp: 1754535937,
+  pushName: 'Alexander',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'mensaje',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'mensaje',
+  from: '593989815664'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2ffbd4cf-acb3-40da-9b3c-c65baff6c3f6',
+  keyword: 'key_33af2346-650a-4e94-b794-9e158e77386a',
+  answer: '📱 Por favor, escribe el número de teléfono:\n' +
+    '(Incluye el código de país)\n' +
+    '\n' +
+    'Ejemplo: +593987654321',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '82e4a3dad17ff99ad792495a757d24a8'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989815664@s.whatsapp.net',
+    fromMe: false,
+    id: '00E58C9ABC94A6BC9B1EC9340220D986',
+    participant: undefined
+  },
+  messageTimestamp: 1754535940,
+  pushName: 'Alexander',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 7776000,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593989815664'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989815664@s.whatsapp.net',
+    fromMe: false,
+    id: 'CDA083EF862634903957F514EDEF22EF',
+    participant: undefined
+  },
+  messageTimestamp: 1754535955,
+  pushName: 'Alexander',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '+593987069756',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '+593987069756',
+  from: '593989815664'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4ca4c121-6cc3-4032-8901-9c011f3e0265',
+  keyword: 'ans_2ffbd4cf-acb3-40da-9b3c-c65baff6c3f6',
+  answer: '💬 Escribe tu mensaje:\nSe enviará cuando lo escribas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '45597f286a71f97f975fdb074847be03'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989815664@s.whatsapp.net',
+    fromMe: false,
+    id: '00C2AB0D90F6FCD0CCE4C8E6F61F2E76',
+    participant: undefined
+  },
+  messageTimestamp: 1754535956,
+  pushName: 'Alexander',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 7776000,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593989815664'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989815664@s.whatsapp.net',
+    fromMe: false,
+    id: '50E7F605E7C00CBA33204E7EEB8BEF00',
+    participant: undefined
+  },
+  messageTimestamp: 1754535964,
+  pushName: 'Alexander',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola cómo estás, podemos hablar',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola cómo estás, podemos hablar',
+  from: '593989815664'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989815664@s.whatsapp.net',
+    fromMe: false,
+    id: '4E716BD905CC5BE666E62EB1A026DB90',
+    participant: undefined
+  },
+  messageTimestamp: 1754535970,
+  pushName: 'Alexander',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 7776000,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593989815664'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989815664@s.whatsapp.net',
+    fromMe: false,
+    id: '56CEEEEC1401C3B5D3BF832E70B92EF3',
+    participant: undefined
+  },
+  messageTimestamp: 1754535988,
+  pushName: 'Alexander',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'menu',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'menu',
+  from: '593989815664'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b0e41905-e83c-4e28-a5d7-f090584f23bd',
+  keyword: 'key_b0798516-f58f-46a4-89cf-b0f66264f0aa',
+  answer: '🚕 ¡Hola! Bienvenido',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b12bcc42ecb140dc58475df050f60f14'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8500e37e-ca87-47a9-9288-95b4c2eda620',
+  keyword: 'ans_b0e41905-e83c-4e28-a5d7-f090584f23bd',
+  answer: '📋 *Menú de opciones:*\n' +
+    '\n' +
+    '🚕 Escribe *taxi* para solicitar un taxi\n' +
+    '📤 Escribe *mensaje* para enviar un mensaje\n' +
+    '\n' +
+    'Escribe la palabra de la opción que deseas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'cd50c9126f053d07de975244c942c093'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989815664@s.whatsapp.net',
+    fromMe: false,
+    id: '694A8B8D5AA48A4E990AA7B1231ABBFE',
+    participant: undefined
+  },
+  messageTimestamp: 1754535991,
+  pushName: 'Alexander',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 7776000,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593989815664'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989815664@s.whatsapp.net',
+    fromMe: false,
+    id: 'AE35386B418EEEFCBE3AFB890214DDFE',
+    participant: undefined
+  },
+  messageTimestamp: 1754535993,
+  pushName: 'Alexander',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'taxi',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  status: 4,
+  body: 'taxi',
+  from: '593989815664'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d866f7ac-4f93-476f-a228-260ce3401d71',
+  keyword: 'key_16243ce8-68a2-491f-a0e1-b8955b823106',
+  answer: '🚕 ¡Perfecto! Vamos a solicitar tu taxi.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ab56f43f3fc206b657f58375fd7c5f72'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_13e4d8fa-39d8-4a7a-8c3d-0d40717e6920',
+  keyword: 'ans_d866f7ac-4f93-476f-a228-260ce3401d71',
+  answer: 'Por favor, proporciona la siguiente información:\n' +
+    '\n' +
+    '📍 *Dirección de origen:*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '35f564bcf810f3b039ffee6c18d7c8b7'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989815664@s.whatsapp.net',
+    fromMe: false,
+    id: '4DE3D3C290A8C1E37723A9BD917C6588',
+    participant: undefined
+  },
+  messageTimestamp: 1754535996,
+  pushName: 'Alexander',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 7776000,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593989815664'
+}
